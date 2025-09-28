@@ -1,1 +1,13 @@
+This folder will hold all the different pages that I wish to display on the website.
 
+Main pages:
+- About
+- Resume
+- Portfolio
+- Blog
+- Contact
+
+Subpages:
+- Projects
+- Clients (people I've worked for)
+- Blog pages
